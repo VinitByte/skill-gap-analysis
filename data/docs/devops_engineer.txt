@@ -1,0 +1,13 @@
+DevOps Engineer - Industry Skill Requirements
+
+The DevOps Engineer role in the Cloud/Infra sector is in steady demand. Employers expect candidates to combine academic knowledge with practical, project-based experience.
+
+Linux is a critical skill for a DevOps Engineer; employers look for strong proficiency (level 4 of 5).
+Docker is a critical skill for a DevOps Engineer; employers look for strong proficiency (level 4 of 5).
+Kubernetes is a important skill for a DevOps Engineer; employers look for solid practical ability (level 3 of 5).
+CI/CD is a critical skill for a DevOps Engineer; employers look for strong proficiency (level 4 of 5).
+AWS is a critical skill for a DevOps Engineer; employers look for strong proficiency (level 4 of 5).
+Git is a important skill for a DevOps Engineer; employers look for strong proficiency (level 4 of 5).
+Python is a important skill for a DevOps Engineer; employers look for solid practical ability (level 3 of 5).
+
+Hiring managers for DevOps Engineer positions say portfolio projects, internships and GitHub activity help candidates prove these skills.
